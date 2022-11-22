@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+}
